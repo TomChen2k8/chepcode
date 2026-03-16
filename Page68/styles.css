@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+table{
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 10px;
+}
+
+td{
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 5px;
+    border-radius: 6px;
+}
+
+p{
+    margin: 5px 0 10px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 4px;
+    display: block;
+    margin: 0 auto;
+}
+
+.footer{
+    color: black;
+    margin-top: 20px;
+    font-style: italic;
+}
